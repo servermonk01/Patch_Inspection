@@ -185,6 +185,3 @@ should look something like:
 |---|---|---|---|
 | WR50-baseline | 99.2% | 98.1% | 94.4%
 | Ensemble | __99.6%__ | __98.2%__ | __94.9%__
-
-
-```
