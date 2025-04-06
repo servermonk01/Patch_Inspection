@@ -186,17 +186,5 @@ should look something like:
 | WR50-baseline | 99.2% | 98.1% | 94.4%
 | Ensemble | __99.6%__ | __98.2%__ | __94.9%__
 
-### Citing
 
-If you use the code in this repository, please cite
-
-```
-@misc{roth2021total,
-      title={Towards Total Recall in Industrial Anomaly Detection},
-      author={Karsten Roth and Latha Pemula and Joaquin Zepeda and Bernhard Schölkopf and Thomas Brox and Peter Gehler},
-      year={2021},
-      eprint={2106.08265},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
 ```
